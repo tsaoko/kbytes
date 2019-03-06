@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('title') }}</title>
+    <title>千比特云通讯官网</title>
     <!--== bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 

@@ -23,28 +23,24 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="footer-logo">
-                        <img id="footer-logo-img" src="images/logo.png" class="img-center" alt="">
+                        <img id="footer-logo-img" src="images/logo.png?t=1" class="img-center" alt="">
                     </div>
                     <p class="mb-0">
-                        专注云通讯技术服务提供商
+                        千比特云通讯技术(武汉)有限公司<br />专注云通讯技术服务提供商
                     </p>
                 </div>
                 <div class="col-lg-4 col-md-6 pl-md-5 sm-mt-5 footer-list justify-content-between d-flex">
                     <ul class="list-unstyled w-100">
-                        <li><a href="about-us.html">关于我们</a>
+                        <li><a href="#about">关于我们</a>
                         </li>
-                        <li><a href="services.html">服务内容</a>
+                        <li><a href="#services">服务内容</a>
                         </li>
-                        <li><a href="team.html">团队</a>
-                        </li>
-                        <li><a href="contact.html">联系我们</a>
+                        <li><a href="#footer">联系我们</a>
                         </li>
                     </ul>
                     <ul class="list-unstyled w-100">
-                        <li><a href="blog-right-sidebar.html">博客</a>
-                        </li>
-                        <li><a href="faq.html">帮助中心</a>
-                        </li>
+                        <li>博客</li>
+                        <li>帮助中心</li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-12 md-mt-5">
@@ -53,9 +49,9 @@
                             <p class="mb-0">地址: <b>武汉市东湖新技术开发区流芳大道52号武汉·中国光谷文化创意产业园第D-02号楼4-5层4号</b>
                             </p>
                         </li>
-                        <li>Email: <a href="mailto:htinfotech7@gmail.com"><b>uutan@qq.com</b></a>
+                        <li>Email: <a href="mailto:uutan@qq.com"><b>uutan@qq.com</b></a>
                         </li>
-                        <li>Phone: <a href="tel:+912345678900"><b>+86-186-2771-3655</b></a>
+                        <li>Phone: <a href="tel:+8618627713655"><b>+86-186-2771-3655</b></a>
                         </li>
                     </ul>
                 </div>

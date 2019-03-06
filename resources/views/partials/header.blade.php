@@ -8,7 +8,7 @@
                     <!-- Navbar -->
                     <nav class="navbar navbar-expand-lg">
                         <a class="navbar-brand logo" href="{{ url('/') }}">
-                            <img id="logo-img" class="img-center" src="images/logo.png" alt="">
+                            <img id="logo-img" class="img-center" src="images/logo.png?t=1" alt="">
                         </a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"> <span></span>
                             <span></span>
@@ -31,7 +31,7 @@
                                 {{--</li>--}}
                             </ul>
                         </div>
-                        
+
                     </nav>
                 </div>
             </div>
